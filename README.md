@@ -1,1 +1,1 @@
-# https://ruslanPonomarev.github.io/rsschool-cv/cv/
+# https://ruslanponomarev.github.io/rsschool-cv/cv/
