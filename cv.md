@@ -21,10 +21,10 @@ Perform thorough regression testing when bugs are resolved.
 Developing and apply testing processes for new and existing products to meet client needs. 
 Monitor debugging process results.
 
-Skills
+Skills:
 Programming: Java, Php, JavaScript, git, HTML/CSS
 
-My Major Projects
+My Major Projects:
 'Theoptimal.me' for health, fitness, and good life quality.
 Currently, this project is released.
 My responsibilities: Manual testing, automating prior features, cross-browsers, and cross-devices testing, performance, security.
