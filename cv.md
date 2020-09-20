@@ -1,7 +1,8 @@
 Ruslan Ponomarev
 QA engeneer with a background in math, science and programming.
 [ ruslanPonomarev.github.io ] . [ ruslan.ponomarev@wearebrain.com ] . [ +3(8) 050-04-29-489]
-Education
+
+Education:
 Specialist engeneer, Kharkivskiy National University (2003-2010)
 
 Employment History:
