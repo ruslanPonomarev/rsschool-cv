@@ -5,7 +5,7 @@ QA engeneer with a background in math, science and programming.
 Education:
 Specialist engeneer, Kharkivskiy National University (2003-2010)
 
-Employment History:
+Employment History: 
 Junior manual QA engeneer at WeAreBrain company.
 May 2018 – Present
 
