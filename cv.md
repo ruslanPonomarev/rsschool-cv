@@ -22,7 +22,7 @@ Developing and apply testing processes for new and existing products to meet cli
 Monitor debugging process results.
 
 Skills:
-Programming: Java, Php, JavaScript, git, HTML/CSS
+Programming: Java, Php, JavaScript, git, HTML/CSS.
 
 My Major Projects:
 'Theoptimal.me' for health, fitness, and good life quality.
